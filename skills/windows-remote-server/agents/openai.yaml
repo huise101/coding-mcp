@@ -1,0 +1,4 @@
+interface:
+  display_name: "Windows Remote Server"
+  short_description: "Use Windows profiles to SSH and transfer files safely."
+  default_prompt: "Use $windows-remote-server with profile: my-server to run remote commands and transfer files."

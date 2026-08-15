@@ -1,0 +1,11 @@
+.codex-remote/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_rsa.*
+*.credential.xml
+__pycache__/
+*.pyc
